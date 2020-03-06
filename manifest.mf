@@ -1,0 +1,3 @@
+CACHE:
+index.html
+bundle.js
